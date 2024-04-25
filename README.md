@@ -2,5 +2,4 @@
 </h3>
 <p align="left">third year computer science student @ uottawa
     <br> software testing specialist @ march networks
-    <br> full-stack developer @ ceed
 </p>
